@@ -1,0 +1,35 @@
+# NoteTaker
+
+A Java-based web application for creating, managing, and organizing notes.
+
+## Features
+- Create, view, update, and delete notes
+- Responsive design with Bootstrap
+- Data persistence using Hibernate ORM
+- Dynamic web pages with JSP
+- MVC architecture with Servlets
+
+## Technologies
+- Java
+- Hibernate
+- JSP (JavaServer Pages)
+- Servlets
+- Maven
+- MySQL (or your database)
+- Bootstrap
+
+## Setup
+1. Clone the repository
+2. Import as Maven project in Eclipse
+3. Configure `hibernate.cfg.xml` with your database details
+4. Deploy on Apache Tomcat
+
+## Usage
+- Deploy the app and visit `http://localhost:8080/NoteTaker`
+- Create a new note, view all notes, edit, or delete notes
+
+## Contributing
+Feel free to fork the project and submit pull requests.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
